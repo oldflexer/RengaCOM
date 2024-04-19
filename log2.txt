@@ -1,0 +1,1 @@
+door_classic_count: 0 door_opening_count: 0 door_other_count: 0
